@@ -10,4 +10,4 @@ Aquest projecte se centra en l'anàlisi de dades utilitzant Python, aplicant tè
 Paula Arnas<br>
 Usuari a Discord: parnas1752<br>
 
-🔗 Enllaç al projecte: [Repositori GitHub](https://github.com/parnsant/IT-Academy---Sprint-8)
+🔗 Enllaç al projecte: [Repositori GitHub](https://github.com/parnsant/IT-Academy-Sprint-8)
